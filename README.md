@@ -52,5 +52,5 @@
     </a>
   </div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru" alt="Статистика GitHub пользователя MVTT"/>
-  <img height="170" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&hide_progress=true&locale=ru&custom_title=Наиболее&nbsp;используемые&nbsp;языки" alt="Статистика GitHub пользователя MVTT"/>
+  <img height="170" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&locale=ru&custom_title=Наиболее&nbsp;используемые&nbsp;языки" alt="Статистика GitHub пользователя MVTT"/>
 </div>
