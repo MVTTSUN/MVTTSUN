@@ -41,6 +41,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: Моя статистика:
 
 <div id="stats" align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru" alt="Статистика GitHub пользователя MVTT"/>
-  <img height="200" width="410" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&hide_progress=true&locale=ru&custom_title=Наиболее&nbsp;используемые&nbsp;языки" alt="Статистика GitHub пользователя MVTT"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru" alt="Статистика GitHub пользователя MVTT"/>
+  <img height="190" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&hide_progress=true&locale=ru&custom_title=Наиболее&nbsp;используемые&nbsp;языки" alt="Статистика GitHub пользователя MVTT"/>
 </div>
