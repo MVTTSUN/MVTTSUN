@@ -4,7 +4,7 @@
     <a href="https://t.me/MVTTSUN">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=MVTTSUN&style=for-the-badge&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=MVTTSUN&style=for-the-badge&color=blue" alt="Статистика просмотров"/>
   </div>
 </div>
 <h1>
@@ -40,5 +40,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: Моя статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru)&#160;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&hide_progress=true&locale=ru&card_width=370&line_height=150)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru" alt="Статистика GitHub пользователя MVTT"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&hide_progress=true&locale=ru&line_height=150)](https://github.com/anuraghazra/github-readme-stats)
