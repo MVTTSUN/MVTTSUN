@@ -40,5 +40,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: Моя статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru&card_width=500)&#160;&#160;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru&card_width=500)&#160;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&hide_progress=true&locale=ru&card_width=500&line_height=75)](https://github.com/anuraghazra/github-readme-stats)
