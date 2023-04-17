@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне:
 
 ---
 
@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Стек:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,9 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire: Моя статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-
