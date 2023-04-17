@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,javascript, react,redux,typescript,jest,webpack,vite,babel,linux,docker,python,java,cs" />
   </a>
 </p>
 
