@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <div id="badges">
+  <span id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -11,9 +11,8 @@
     <a href="your-twitter-URL">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=MVTTSUN&style=for-the-badge&color=blue" alt=""/>
-  </div>
+  </span>
+  <img src="https://komarev.com/ghpvc/?username=MVTTSUN&style=for-the-badge&color=blue" alt=""/>
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 <h1>
