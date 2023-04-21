@@ -4,7 +4,9 @@
     <a href="https://t.me/MVTTSUN">
       <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Ссылка на телеграм"/>
     </a>
-    <img src="https://img.shields.io/badge/email-ryabtzun2011@yandex.ru-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Почта  ryabtzun2011@yandex.ru"/>
+    <a href="mailto:ryabtzun2011@yandex.ru">
+      <img src="https://img.shields.io/badge/email-ryabtzun2011@yandex.ru-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Ссылка на почту ryabtzun2011@yandex.ru"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=MVTTSUN&style=for-the-badge&color=blue" alt="Статистика посещений"/>
   </div>
 </div>
