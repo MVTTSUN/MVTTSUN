@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://t.me/MVTTSUN">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
+    <a href="https://t.me/M
+
+
     <img src="https://komarev.com/ghpvc/?username=MVTTSUN&style=for-the-badge&color=blue" alt="Статистика просмотров"/>
   </div>
 </div>
@@ -16,7 +16,7 @@
 
 ---
 
-<h3>
+
   Привет, меня зовут Матвей, я Frontend-разработчик
 </h3>
 
