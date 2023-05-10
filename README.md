@@ -43,7 +43,7 @@
   </a>
 </p>
 
----
+--
 
 ### :fire: Моя статистика:
 <div id="stats" align="center">
