@@ -48,11 +48,11 @@
 ### :fire: Моя статистика:
 <div id="stats" align="center">
   <span>
-    <div>
+    <span>
       <a href="https://www.codewars.com/users/MVTT">
         <img src="https://www.codewars.com/users/MVTT/badges/large"/>
       </a>
-    </div>
+    </span>
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=MVTTSUN&theme=vue&show_icons=true&locale=ru" alt="Статистика GitHub пользователя MVTT"/>
   </span>
   <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVTTSUN&locale=ru&custom_title=Наиболее&nbsp;используемые&nbsp;языки" alt="Статистика GitHub пользователя MVTT"/>
